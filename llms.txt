@@ -1,0 +1,10 @@
+# OPC Studio | AI 商机研究
+
+本站根据公开原始来源整理 AI 开发项目、远程兼职、采购和征集信息；不是招聘或采购的发布方。
+
+- [首页](https://ardss.github.io/opc-studio/)：核心查询和精选商机。
+- [商机库](https://ardss.github.io/opc-studio/opportunities/)：各类公开来源及状态。
+- [核验原则](https://ardss.github.io/opc-studio/standards/)：来源、期限、付费与非现金机会的区别。
+- [站点地图](https://ardss.github.io/opc-studio/sitemap.xml)。
+
+数据快照：2026-11-05，请进入原始来源确认实际招募或采购状态。
